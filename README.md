@@ -20,4 +20,4 @@ npm start
 * Right mouse click - decrement rating of the photo.    
 
 ### Demo
-[https://ifedyukin.ru/Epam/React-PhotoRating/](https://ifedyukin.ru/Epam/React-PhotoRating/)    
+[https://ifedyukin.github.io/Epam/React-PhotoRating/](https://ifedyukin.github.io/Epam/React-PhotoRating/)    
